@@ -2,7 +2,7 @@ Uno
 //rules
 The first player is normally the player to the left of the dealer and gameplay usually follows a clockwise direction.
 
-Every player views his/her cards and tries to match the card in the Discard Pile.
+Every player views their cards and tries to match the card in the Discard Pile.
 
 You have to match either by the number, color, or the symbol/Action.
 
